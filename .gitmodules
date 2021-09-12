@@ -1,3 +1,6 @@
 [submodule "AI-Course-Backtracking"]
 	path = AI-Course-Backtracking
 	url = https://github.com/shreyaM98/AI-Course-Backtracking.git
+[submodule "Heavy-Queens-GeneticAlgo"]
+	path = Heavy-Queens-GeneticAlgo
+	url = https://github.com/shreyaM98/Heavy-Queens-GeneticAlgo.git
